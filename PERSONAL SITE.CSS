@@ -1,0 +1,33 @@
+body{
+  background-color: #FFFFFF;
+}
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 5px;
+  width: 18%;
+  border-color: black;
+}
+.lines{
+  border-style: groove;
+  width: auto;
+  border-width: thin;
+}
+.pi{
+  border-style: double;
+  border-collapse: separate;
+
+}
+h1{
+  font-size: 25px;
+  color: #000000;
+}
+h2{
+  color: #000000;
+}
+h3{
+  color: #000085;
+}
+.a12{
+  color: #000000;
+}
